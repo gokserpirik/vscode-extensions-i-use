@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# My Extension Recommendations for VSCode
+### Some of them also the ones that I use in my projects. So if you use them it's also better for you to see my comments and code better than now.
 
-You can use the [editor on GitHub](https://github.com/gokserpirik/vscode-extensions-i-use/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Extensions for Code View
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/48176173/147350105-e90ebb85-2631-4824-95c6-0cfbcc59a425.png)
+### Better Comments
+I use Better Comments to give specific messages in my comments for you and I.
+For example, if I use "!" , it means that part is important.
+Also, I can redefine "!" at the start of the project, so when you read that definition, you can easily understand my comments' main point before reading them.
 
-### Markdown
+![image](https://user-images.githubusercontent.com/48176173/147350131-563d22c1-f8db-40c3-9c90-2c7bef1a8704.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Flutter (includes DART)
+My profiles is mostly based on Flutter. I also write my code in VSCode. Therefore, this extension helps me a lot! It has fast debug option which can work from VSCode's interface without any code. Also you can easily open performance pages and such. 
 
-```markdown
-Syntax highlighted code block
+## Extensions for VSCode UI
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/48176173/147350156-3067a22c-0d32-4e74-9cde-442bc24b99ba.png)
+### Github Theme
+I like this extension because of its variety. There are many color options that are not boring and good-looking.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gokserpirik/vscode-extensions-i-use/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
